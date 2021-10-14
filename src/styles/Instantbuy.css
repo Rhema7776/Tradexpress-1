@@ -1,0 +1,48 @@
+.Instantbuy{
+  background-color: white;
+  height: 700px;
+    
+ }
+
+ .body1{
+   background-color: whitesmoke;
+   width: 27%;
+   position: relative;
+   left: 400px;
+   height: 520px;
+   padding-left: 27px;
+   padding-top: 16px;
+
+ }
+
+ /* .slider.round { */
+  /* border-radius: 34px;
+  width: 5rem;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+  width: 5rem;
+}
+ */
+
+
+.last_input{
+  border: none;
+  height: 36px;
+  width: 290px;
+  border-radius: 5px;
+}
+.last_button{
+  border: thin 0px;
+  height: 36px;
+  
+}
+.buy_sell{
+ /* position: relative;
+ left: 110px; */
+ background-color: rebeccapurple;
+ width: 12rem;
+ 
+ /* justify-content: center; */
+}

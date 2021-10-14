@@ -1,0 +1,239 @@
+.home1{
+    /* background-color: #7C20BE; */
+    /* padding-top: 1px; */
+    
+    /* padding-top: 20px; */
+    /* height: 580px; */
+    
+    
+}
+.home{
+    background-color: #7C20BE;
+    /* color: #fff; */
+    padding-top: 70px;
+    padding-left: 9%;
+    height: 500px;
+}
+#buy{
+    width: 439px;
+    font-size: 26px;
+    background-color: #7C20BE;
+    color: whitesmoke;
+
+}
+.Ready{
+    text-align: center;
+}
+
+#buy2{
+    width: 439px;
+    font-size: 20px;
+    color: white;
+}
+
+.Home_button{
+    background-color: whitesmoke;
+    color: purple;
+    width: 315px;
+    height: 50px;
+    border-radius: 5px;
+    margin-block-end: 2%;
+    border: none;
+}
+.Bitcoin{
+    /* background-color: yellow; */
+    display: flex;
+    justify-content: space-around;
+}
+.bitcoin1{
+    display: flex;
+    /* justify-content: space-between; */
+}
+.Appbuttons{
+    /* background-color: purple; */
+    height: 40px;
+    justify-content: space-evenly;
+   
+
+}
+.AppStore{
+   
+}
+
+.Googleplay{
+    margin-left: 15px;
+}
+
+.section2{
+    text-align: center;
+    background-color: whitesmoke;
+    height: 600px;
+}
+.div_flex{
+    display: flex;
+    justify-content: space-evenly;
+}
+.div_flex1{
+    width: 27%;
+    background-color: white;
+    text-align: center;
+    height: 380px;
+}
+.div_flex2{
+    width: 27%;
+    background-color: white;
+    text-align: center;
+    height: 380px;
+}
+.div_flex3{
+    width: 27%;
+    background-color: white;
+    text-align: center;
+    height: 380px;
+}
+
+.div_flex1a{
+    width: 30px;
+    height: 30px;
+    background-color:  #7C20BF; 
+    box-shadow: 3px 4px #cba5e6;
+    border-radius: 7px;
+    color: cornsilk;
+    border: none;
+    position: relative;
+    right: 70px;
+}
+.div_flex2a{
+    width: 100px;
+    
+}
+.div_flex3a{
+    width: 100px;
+}
+.Learnmore{
+    background-color: white;
+    color: black;
+    border-color: black;
+    width: 300px;
+    height: 53px;
+    margin-top: 2%;
+    border-radius: 11px;
+}
+h2{
+    color: #26093A;
+}
+
+.a_flex1{
+    display: flex;
+    justify-content: space-around;
+    /* width: 1400px; */
+
+}
+/* .a_flex2{
+    display: flex;
+}
+.a_flex3{
+    display: flex;
+} */
+.img_2{
+    width: 20%;
+}
+.fire{
+    width: 500px;
+}
+
+.a_flex{
+    background-color: whitesmoke;
+    width: 100%;
+    text-align: left;
+    /* padding-left: 30px; */
+    
+    
+}
+.a_flex2{
+    display: flex;
+    width: 1200px;
+    /* background-color: yellow; */
+    justify-content: space-between;
+}
+.AppStore_a{
+    background-color: whitesmoke;
+    color :black;
+   width: 158px;
+   border-radius: 6px;
+   border: 1px solid black;
+   text-align: left;
+   
+   /* height: 10%; */
+}
+.AppStore_b{
+    background-color: whitesmoke;
+    color :black;
+   width: 158px;
+   border-radius: 6px;
+   border: 1px solid black;
+   text-align: left;
+   margin-left: 3px;
+   /* height: 10%; */
+}
+.ready{
+    text-align: center;
+    height: 30rem;
+    padding-top: 7rem;
+    /* background-color: tomato; */
+}
+
+.Googleplay1{
+    height: 30px;
+}
+.Appbutton{
+    height: 11px;
+    /* background-color: yellowgreen; */
+    width: 110px;
+    position: relative;
+    bottom: 33px; 
+    margin-left: 37px;
+}
+
+.messagepurple{
+    background-image: url(../images/message\ purple.png);
+    background-repeat: no-repeat;
+    color: white;
+    /* text-align: center; */
+    width: 22rem;
+    height: 290px;
+    display: flex;
+    /* padding-bottom: 45px; */
+    justify-content: space-around;
+    /* text-align: center; */
+}
+.quote{
+    height: 15px;
+}
+
+.quote1{
+    height: 15px;
+    position: relative;
+    right: 160px;
+    
+}
+.purpleflex{
+   display: flex;
+   /* background-color: gold ; */
+   justify-content: space-around;
+   /* height: 550rem; */
+}
+.customer{
+    text-align: center;
+    background-color: whitesmoke;
+}
+.futa1{
+    display: flex;
+    /* background-color: blue; */
+    justify-content: space-around;
+}
+/* .a_flex2a{
+    width: 100px;
+    background-color: yellow;
+    
+} */

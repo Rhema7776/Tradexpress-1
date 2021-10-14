@@ -1,0 +1,45 @@
+/* :root{
+ background-color: #7C20BE;
+} */
+
+
+.landingpage{
+    display: flex;
+    background-color: #7C20BE;
+    justify-content: space-around;
+    
+    height: 4rem;
+}
+.buys{
+    /* background-color: chartreuse; */
+    width: 820px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 4px;
+    
+}
+.button1{
+    background-color: transparent;
+    color: white;
+    width: 300px;
+    height: 40px;
+    border-color: whitesmoke, solid;
+    border-radius: 7px;
+    border-color: whitesmoke;
+}
+
+.button2{
+    background-color: white;
+    color: purple;
+    width: 300px;
+    height: 40px;
+    border: none;
+    border-radius: 7px;
+    
+} 
+
+.buys1{
+    color: whitesmoke;
+    text-decoration: none;
+    text-decoration-color: none;
+}

@@ -1,0 +1,245 @@
+.Dashboard{
+    background-color: rgb(221, 219, 219);
+}
+.flexnav{
+    background-color: white;
+}
+.side{
+    background-color: white;
+}
+.contact{
+    background-color: white;
+    width: 60%;
+    border-radius: 7px;
+    height: 30px;
+    margin-top: 57px;
+}
+.mother3{
+    background-color: rgb(221, 219, 219);
+    display: flex;
+    
+    /* justify-content: space-between; */
+}
+
+.mother1{
+    background-color: white;
+   
+}
+/* .mother1c{
+    margin-block-end: 10px;
+} */
+.mother{
+    background-color: rgb(221, 219, 219);
+    width:86%;
+}
+.h2{
+    /* font-family: Exotc350 Bd BT; */
+    background-color: #26093A;
+    color: white;
+}
+
+.menu{
+    width: 7%;
+    padding-left: 29px;
+}
+.bell{
+    width: 10%;
+    color: white;
+}
+.flexnav{
+    display: flex;
+    justify-content: space-between;
+}
+.dash{
+    width: 20%;
+}
+.wallet{
+    width: 22%;
+    margin-block-end: 6px;
+}
+.ExchangeRate{
+    width: 22%;
+    margin-block-end: 6px;
+}
+.Learn{
+    width: 22%;
+    margin-block-end: 6px;
+}
+.Blog{
+    width: 22%;
+    margin-block-end: 6px;
+}
+.Profile{
+    width: 22%;
+    margin-block-end: 6px;
+}
+.Settings{
+    width: 22%;
+    margin-block-end: 6px;
+}
+.Logout{
+    width: 22%;
+    margin-block-end: 9px;
+}
+.num1{
+    font-size: 27px;
+}
+.mother1{
+    display: flex;
+    justify-content: space-between;
+}
+.mother3a{
+    background-color: white;
+    width: 295px;
+    
+    /* height: 290px; */
+}
+.mother1a{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+.mother1b{
+    
+    width: 120px;
+    /* font-size: x-small; */
+    text-align: center;
+    justify-content: space-between;
+}
+.NGN{
+    font-size: 1rem;
+}
+.BTC{
+    display: flex;
+    justify-content: space-between;
+    margin-block-end: 17px;
+
+}
+.btc{
+    align-items: center;
+    justify-content: center;
+    top: 279px;
+    left: 269px;
+    width: 300px;
+    height: 155px;
+    background: #750DBF 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    opacity: 0.8;
+ display: flex;
+}
+.usdt2{
+    align-items: center;
+    justify-content: center;
+    top: 279px;
+    left: 269px;
+    width: 300px;
+    height: 155px;
+    background: #531680 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    opacity: 1;
+    display: flex;
+}
+.eth{
+    align-items: center;
+    justify-content: center;
+    top: 279px;
+    left: 1005px;
+    width: 300px;
+    height: 155px;
+    background: #2A0B40 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    opacity: 1;
+    display: flex;
+}
+.lit{
+    align-items: center;
+    justify-content: center;
+    top: 279px;
+    left: 1373px;
+    width: 300px;
+    height: 155px;
+    background: #6C1CA6 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    opacity: 0.8;
+    display: flex;
+}
+
+.last_flex1{
+    display: flex;
+}
+.tick{
+    background-color: rgb(156, 154, 154);
+    border-radius: 67%;
+    border: none;
+    width: 20px;
+    height: 25px;
+    color:#26093A thick;
+    top: 751px;
+    left: 318px;
+   /* width: 13px;
+    height: 10px; */
+}
+.confirm{
+    font-size: 12px;
+}
+.tick1{
+    /* display: flex; */
+    background-color: gray;
+    color:#26093A thick;
+    border-radius: 66%;
+    width: 20px;
+    height: 25px; 
+}
+.tick1a{
+    /* display: flex; */
+    background-color: rgb(95, 95, 95);
+    color:#26093A thick;
+    border-radius: 66%;
+    width: 20px;
+    height: 35px; 
+    /* position: relative;
+    top: 7%; */
+}
+.mother4{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.mother4b{
+    display: flex;
+}
+.Recent{
+    background-color: white;
+    width: 49%;
+    margin-left: 20px;
+}
+.mother4a{
+    background-color: white;
+    width: 60%;
+    margin-block-end: 10px;
+    padding-left: 13px;
+    /* justify-content: space-around; */
+}
+.mother4b{
+    justify-content: space-around;
+    width: 1209px;
+}
+.li_design{
+   color: #6C1CA6;
+   font-size: 2rem;
+   
+}
+.li_design1{
+    color: #26093A;
+    font-size: 2rem;
+    
+ }
+#li1{
+  color: black;
+  font-size: 13px;
+}
+.portfolio{
+    background-color: white;
+    width: 59%;
+    margin-left: 2%;
+}

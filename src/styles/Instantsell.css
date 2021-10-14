@@ -1,0 +1,20 @@
+.Instantbuy{
+    /* background-color: red; */
+    height: 700px;
+ }
+
+
+
+.last_input{
+  border: none;
+  height: 36px;
+}
+.last_button{
+  border: thin 0px;
+  height: 36px;
+}
+.buy_sell{
+ position: relative;
+ left: 110px;
+ background-color: rebeccapurple;
+}

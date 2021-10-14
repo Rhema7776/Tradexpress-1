@@ -1,0 +1,94 @@
+.flex_bitcoin{
+    display: flex;
+    /* width: 31%; */
+    background-color: whitesmoke;
+    justify-content: space-around;
+}
+.getbuttondiv{
+
+    position: relative;
+    /* top: 1rem; */
+    left: 26rem; 
+}
+.getbutton{
+     
+    background-color: whitesmoke;
+    border: none;
+    width: 13%;
+}
+.getbutton2{
+    width: 13%;
+    
+}
+.mother_crypto{
+    background-color: white;
+    width: 34%;
+    margin-block-end: 10px;
+    justify-content: space-around;
+    text-align: center;
+}
+.BTC{
+    display: flex;
+    /* justify-content: space-between; */
+    margin-block-end: 17px;
+    /* width: 15%; */
+}
+.litecoin{
+    width: 2rem;
+}
+.bitcoin{
+    align-items: center;
+    justify-content: center;
+    top: 279px;
+    left: 269px;
+    width: 91px;
+    height: 105px;
+    background: #750DBF 0% 0% no-repeat padding-box;
+    color: whitesmoke;
+    border-radius: 8px;
+    opacity: 0.8;
+ display: flex;
+ font-size: 14px;
+}
+.usdt{
+    align-items: center;
+    justify-content: center;
+    top: 279px;
+    left: 637px;
+    width: 91px;
+    height: 105px;
+    background: #531680 0% 0% no-repeat padding-box;
+    color: whitesmoke;
+    border-radius: 8px;
+    opacity: 1;
+    display: flex;
+    font-size: 14px;
+}
+.etherium{
+    align-items: center;
+    justify-content: center;
+    top: 279px;
+    left: 1005px;
+    width: 91px;
+    height: 105px;
+    background: #2A0B40 0% 0% no-repeat padding-box;
+    color: whitesmoke;
+    border-radius: 8px;
+    opacity: 1;
+    display: flex;
+    font-size: 14px;
+}
+.ltc{
+    align-items: center;
+    justify-content: center;
+    top: 279px;
+    left: 1373px;
+    width: 91px;
+    height: 105px;
+    background: #6C1CA6 0% 0% no-repeat padding-box;
+    color: whitesmoke;
+    border-radius: 8px;
+    opacity: 0.8;
+    display: flex;
+    font-size: 14px;
+}
